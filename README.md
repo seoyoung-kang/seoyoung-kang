@@ -1,6 +1,7 @@
 <h1 align="center"> "Hi there👋, I'm seoyoung Kang!"</h1>
 
-## 🔭 I always strive to do my best in everything and to be a person who constantly grows.
+## 🔭 How am i
+I always strive to do my best in everything and to be a person who constantly grows.
 Versatile and quick to adapt to new challenges, I find joy in achieving diverse goals and work towards my own happiness.🌱
 
 
