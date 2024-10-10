@@ -1,4 +1,5 @@
-<h1 align="center"> "Hi there👋, I'm seoyoung Kang!"</h1>
+<h1 align="center"> "Hi there👋, I'm seoyoung Kang!"
+
 
 ## 🔭 How am i
 I always strive to do my best in everything and to be a person who constantly grows.
