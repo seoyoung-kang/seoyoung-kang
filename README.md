@@ -25,6 +25,10 @@ Skills 🌱
 
 - 📫 How to reach me **seoyeong6992@gmail.com**
 
+\    /\
+ )  ( ')
+(  /  )
+ \(__)|
 
 <p align="left">
 </p>
