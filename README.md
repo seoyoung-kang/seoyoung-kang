@@ -12,7 +12,7 @@ Minor : Kookmin University, Software major
 
 ## 📝 Used Tool & Skill
 Tool 🔥
-- Obtained GTQ Level 1 Photoshop certification
+- Obtained GTQ Photoshop certification
 
 Skills 🌱
 - Implemented LEA, CHAM, and Toy cipher
